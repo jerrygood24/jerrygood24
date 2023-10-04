@@ -14,8 +14,9 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerrygood24&label=Profileviews&color=0e75b6&style=flat" alt="jerrygood24" /> </p>
+<p align="left"> <a href="https://twitter.com/iam_deepak24" target="blank"><img src="https://img.shields.io/twitter/follow/iam_deepak24?logo=twitter&style=for-the-badge" alt="iam_deepak24" /></a> </p>
 
-<h2 align="center">📫 Reach out to me on:</h2>
+<h2 align="center">Connect with me on:</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/itz-deepak/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
