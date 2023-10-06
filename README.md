@@ -95,7 +95,8 @@
 </p>
 <h2 align="center"> HACKTOBERFEST 2023 </h2>
 
-[![@jerrygood24's Holopin board](https://holopin.io/api/user/board?user=jerrygood24)](https://holopin.io/@jerrygood24)
+<!--[![@jerrygood24's Holopin board](https://holopin.io/api/user/board?user=jerrygood24)](https://holopin.io/@jerrygood24) -->
+[![An image of @jerrygood24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jerrygood24)](https://holopin.io/@jerrygood24)
 
 
                                                              ✨ J E R R Y G O O D ✨
