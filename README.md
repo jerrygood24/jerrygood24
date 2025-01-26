@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Web Based Projects**
 
-- 🌱 I’m currently learning **Everything** 🤣
+- 🌱 I’m currently learning **Everything**
 
 - 👨‍💻 Vist My Portfolio [jerrygood24](https://jerrygood24.github.io/)
 
